@@ -5,8 +5,6 @@ My Stack:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,postgresql,sqlalchemy,docker,git,linux)
 
-Contact me!
-
-Email: yulaev.ruslan.dev@gmail.com
-
+Contact me! <br/>
+Email: yulaev.ruslan.dev@gmail.com <br/>
 Linkedin: https://www.linkedin.com/in/ruslan-yulaev-03bb50413/
