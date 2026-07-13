@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there!
 **I'm Ruslan** - a backend developer, i love designing and building APIs and learning about network, internet and how things work at the lowest level
 
 My Stack:
