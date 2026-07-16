@@ -1,5 +1,5 @@
 ## Hi there!
-**I'm Ruslan** - a backend developer, i love designing and building APIs, databases and database tools, learning about network, internet and how things work at the lowest level
+**I'm Ruslan** - a python developer, i love designing and building APIs, databases and database tools, learning about network, internet and how things work at the lowest level
 
 My Stack:
 
