@@ -3,7 +3,7 @@
 
 My Stack:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,postgresql,sqlalchemy,docker,git,linux)
+![](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,pytest,postgresql,docker,git,jira,linux)
 
 Contact me! <br/>
 Email: yulaev.ruslan.dev@gmail.com <br/>
